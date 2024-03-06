@@ -1,0 +1,4 @@
+
+Compilazione
+
+javac -cp [path]\apache-tomcat-11.0.0-M17\lib\servlet-api.jar MyServlet.java
